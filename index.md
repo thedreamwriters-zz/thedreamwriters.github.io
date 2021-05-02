@@ -4,6 +4,8 @@ This is a repository of current educational coding projects, websites, education
 **Educational Coding Projects**
 * SoloLearn
 * Programming for Everybody (Coursera)
+
 **Agile Personal Development**
 * Codex Vitae
+* Goals List
 
