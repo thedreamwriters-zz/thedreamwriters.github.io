@@ -2,7 +2,8 @@
 This is a repository of current educational coding projects, websites, educational resources, and agile personal development/business development. 
 
 **Educational Coding Projects**
-
+* SoloLearn
+* Programming for Everybody (Coursera)
 **Agile Personal Development**
 * Codex Vitae
 
