@@ -3,10 +3,16 @@ This is a repository of current educational coding projects, websites, education
 
 **Educational Coding Projects**
 * SoloLearn
-* Programming for Everybody (Coursera)
 * Github Guides
 
 **Agile Personal Development**
 * Codex Vitae
-* Goals List
-
+* 40 before 40
+* The Desire Map
+* The Impossible List
+* Level Up Your Life
+* Life's An RPG
+* 
+* 2020 Words of The Year
+* 2021 Words of the Year
+* 2022 Words of the Year
